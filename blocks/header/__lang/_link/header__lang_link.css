@@ -1,0 +1,21 @@
+.header__lang_link {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: #ffffff;
+  margin-right: 18px;
+  text-align: right;
+  text-decoration-line: underline;
+}
+.header__lang_link:last-child {
+  text-decoration: none;
+  margin-right: 0;
+}
+
+@media screen and (max-width: 320px) {
+  .header__lang_link {
+    font-size: 18px;
+  }
+}
