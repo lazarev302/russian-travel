@@ -3,10 +3,6 @@
   padding-left: 0;
   width: calc(100% - 2 * 148px);
   margin: 92px auto 0 auto;
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: repeat(5, minmax(min-content, max-content));
-  gap: 80px;
 }
 
 @media screen and (max-width: 1279px) {
@@ -19,6 +15,5 @@
   .places {
     width: calc(100% - 2 * 24px);
     margin: 88px auto 0 auto;
-    gap: 73px;
   }
 }
