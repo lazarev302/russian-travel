@@ -8,3 +8,15 @@
   margin-top: 1px;
   margin-bottom: 12px;
 }
+
+@media screen and (max-width: 768px) {
+  .website__url-heading {
+    margin: 6px 0 12px 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .website__url-heading {
+    margin: 1px 0 12px 0;
+  }
+}

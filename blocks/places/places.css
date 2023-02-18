@@ -17,3 +17,10 @@
     margin: 88px auto 0 auto;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .places {
+    width: 100%;
+    margin: 14px auto 0 auto;
+  }
+}

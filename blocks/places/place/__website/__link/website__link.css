@@ -7,3 +7,15 @@
   color: #ffffff;
   margin-bottom: 48px;
 }
+
+@media screen and (max-width: 768px) {
+  .website__link {
+    margin: 0 0 48px 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .website__link {
+    margin: 0 0 32px 0;
+  }
+}
