@@ -1,10 +1,10 @@
-.header__lang {
+.header__links {
   margin-top: 18px;
   margin-bottom: 6px;
 }
 
 @media screen and (max-width: 767px) {
-  .header__lang {
+  .header__links {
     margin-top: 14px;
     margin-bottom: 8px;
   }
