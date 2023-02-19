@@ -6,11 +6,22 @@
   text-decoration-line: underline;
   color: #ffffff;
   margin-bottom: 48px;
+  opacity: 1;
+  transition: opacity 0.3s linear;
+}
+.website__link:hover {
+  opacity: 0.8;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .website__link {
     margin: 0 0 48px 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .website__link {
+    margin: 0 auto 32px auto;
   }
 }
 

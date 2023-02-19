@@ -16,15 +16,6 @@
     min-height: 40px;
     font-size: 16px;
     line-height: 20px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .lead__subtitle {
-    max-width: 288px;
-    min-height: 40px;
-    font-size: 16px;
-    line-height: 20px;
     margin: 16px 0 0 0;
   }
 }
