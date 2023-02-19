@@ -1,7 +1,5 @@
 # Проект: Путешествие по России
 
-https://lazarev302.github.io/russian-travel/
-
 ### Обзор
 
 https://lazarev302.github.io/russian-travel/
