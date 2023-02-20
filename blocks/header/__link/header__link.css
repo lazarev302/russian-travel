@@ -2,11 +2,11 @@
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
-  line-height: 28px;
+  line-height: 1.16;
   color: #ffffff;
-  margin-right: 18px;
+  margin-right: 0;
   text-align: right;
-  text-decoration-line: underline;
+  text-decoration: none;
   opacity: 1;
   transition: opacity 0.3s linear;
 }
@@ -14,13 +14,9 @@
   opacity: 0.8;
 }
 
-.header__link:last-child {
-  text-decoration: none;
-  margin-right: 0;
-}
-
 @media screen and (max-width: 767px) {
   .header__link {
     font-size: 18px;
+    line-height: 1.11;
   }
 }

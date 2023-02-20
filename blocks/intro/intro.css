@@ -7,7 +7,8 @@
 @media screen and (max-width: 1279px) {
   .intro {
     width: calc(100% - 334px);
-    margin: 92px auto 0 48px;
+    margin-top: 92px;
+    margin-left: 48px;
   }
 }
 
@@ -21,6 +22,6 @@
 @media screen and (max-width: 767px) {
   .intro {
     width: calc(100% - 2 * 16px);
-    margin: 64px auto 0 auto;
+    margin-top: 64px;
   }
 }
